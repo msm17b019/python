@@ -1,0 +1,4 @@
+INFO Server started at 09:00
+ERROR Unable to connect to DB
+WARNING Memory usage high
+ERROR Timeout occurred
