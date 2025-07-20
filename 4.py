@@ -1,0 +1,3 @@
+"""
+Merge two dictionaries.
+"""
